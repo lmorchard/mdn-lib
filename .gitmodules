@@ -1,0 +1,15 @@
+[submodule "src/django-mozilla-product-details"]
+	path = src/django-mozilla-product-details
+	url = git://github.com/fwenzel/django-mozilla-product-details
+[submodule "src/jingo"]
+	path = src/jingo
+	url = git://github.com/jbalogh/jingo.git
+[submodule "src/jingo-minify"]
+	path = src/jingo-minify
+	url = git://github.com/jsocol/jingo-minify.git
+[submodule "src/schematic"]
+	path = src/schematic
+	url = git://github.com/jbalogh/schematic.git
+[submodule "src/tower"]
+	path = src/tower
+	url = git://github.com/clouserw/tower.git

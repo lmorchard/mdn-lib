@@ -1,0 +1,10 @@
+packages/Babel
+packages/Django
+packages/jinja2
+packages/python-memcached
+packages/pytz
+src/django-mozilla-product-details
+src/jingo
+src/jingo-minify
+src/schematic
+src/tower
