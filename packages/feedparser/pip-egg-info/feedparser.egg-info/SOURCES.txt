@@ -1,0 +1,7 @@
+README
+feedparser.py
+setup.cfg
+pip-egg-info/feedparser.egg-info/PKG-INFO
+pip-egg-info/feedparser.egg-info/SOURCES.txt
+pip-egg-info/feedparser.egg-info/dependency_links.txt
+pip-egg-info/feedparser.egg-info/top_level.txt

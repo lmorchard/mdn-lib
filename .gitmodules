@@ -13,3 +13,6 @@
 [submodule "src/tower"]
 	path = src/tower
 	url = git://github.com/clouserw/tower.git
+[submodule "src/commonware"]
+	path = src/commonware
+	url = git://github.com/jsocol/commonware.git
