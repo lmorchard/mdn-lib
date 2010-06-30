@@ -1,6 +1,7 @@
 packages/Babel
 packages/Django
 packages/feedparser
+packages/GitPython
 packages/jinja2
 packages/jsonpickle
 packages/lockfile
