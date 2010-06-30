@@ -1,5 +1,5 @@
 # errors.py
-# Copyright (C) 2008, 2009 Michael Trier (mtrier@gmail.com) and contributors
+# Copyright (C) 2008-2010 Michael Trier (mtrier@gmail.com) and contributors
 #
 # This module is part of GitPython and is released under
 # the BSD License: http://www.opensource.org/licenses/bsd-license.php
@@ -12,7 +12,7 @@ class InvalidGitRepositoryError(Exception):
     Thrown if the given repository appears to have an invalid format. 
     """
 
-class NoSuchPathError(OSError):
+class NoSuchPathError(Exception):
     """
     Thrown if a path could not be access by the system.
     """
@@ -25,8 +25,8 @@ class GitCommandError(Exception):
         self.stderr = stderr
         self.status = status
         self.command = command
-        
+
     def __str__(self):
-        return ("'%s' returned exit status %i: %s" %
-                    (' '.join(str(i) for i in self.command), self.status, self.stderr))
+        return repr("%s returned exit status %d" %
+                    (str(self.command), self.status))
 
