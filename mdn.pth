@@ -9,6 +9,7 @@ packages/python-memcached
 packages/pytz
 src/commonware
 src/django-cache-machine
+src/django-cronjobs
 src/django-mozilla-product-details
 src/jingo
 src/jingo-minify
