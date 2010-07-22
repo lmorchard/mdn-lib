@@ -5,6 +5,7 @@ packages/GitPython/lib
 packages/jinja2
 packages/jsonpickle
 packages/lockfile
+packages/python-dateutil
 packages/python-memcached
 packages/pytz
 src/commonware
