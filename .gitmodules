@@ -22,3 +22,6 @@
 [submodule "src/django-cronjobs"]
 	path = src/django-cronjobs
 	url = git://github.com/jsocol/django-cronjobs.git
+[submodule "src/bleach"]
+	path = src/bleach
+	url = git://github.com/jsocol/bleach.git

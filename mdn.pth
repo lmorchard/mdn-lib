@@ -2,12 +2,14 @@ packages/Babel
 packages/Django
 packages/feedparser
 packages/GitPython/lib
+packages/html5lib/src
 packages/jinja2
 packages/jsonpickle
 packages/lockfile
 packages/python-dateutil
 packages/python-memcached
 packages/pytz
+src/bleach
 src/commonware
 src/django-cache-machine
 src/django-cronjobs
