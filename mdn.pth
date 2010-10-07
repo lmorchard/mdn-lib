@@ -9,6 +9,7 @@ packages/lockfile
 packages/python-dateutil
 packages/python-memcached
 packages/pytz
+packages/translate-toolkit
 src/bleach
 src/commonware
 src/django-cache-machine
