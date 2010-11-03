@@ -25,3 +25,6 @@
 [submodule "src/bleach"]
 	path = src/bleach
 	url = git://github.com/jsocol/bleach.git
+[submodule "src/django-nose"]
+	path = src/django-nose
+	url = git://github.com/jbalogh/django-nose.git

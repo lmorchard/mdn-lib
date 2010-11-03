@@ -6,6 +6,7 @@ packages/html5lib/src
 packages/jinja2
 packages/jsonpickle
 packages/lockfile
+packages/nose
 packages/python-dateutil
 packages/python-memcached
 packages/pytz
@@ -15,6 +16,7 @@ src/commonware
 src/django-cache-machine
 src/django-cronjobs
 src/django-mozilla-product-details
+src/django-nose
 src/jingo
 src/jingo-minify
 src/schematic
