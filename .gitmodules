@@ -28,3 +28,6 @@
 [submodule "src/django-nose"]
 	path = src/django-nose
 	url = git://github.com/jbalogh/django-nose.git
+[submodule "src/django-recaptcha"]
+	path = src/django-recaptcha
+	url = git://github.com/mozilla/django-recaptcha.git

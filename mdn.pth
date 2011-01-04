@@ -1,5 +1,6 @@
 packages/Babel
 packages/Django
+packages/django-tagging
 packages/feedparser
 packages/GitPython/lib
 packages/html5lib/src
@@ -10,6 +11,7 @@ packages/nose
 packages/python-dateutil
 packages/python-memcached
 packages/pytz
+packages/recaptcha-client
 packages/translate-toolkit
 src/bleach
 src/commonware
@@ -17,6 +19,7 @@ src/django-cache-machine
 src/django-cronjobs
 src/django-mozilla-product-details
 src/django-nose
+src/django-recaptcha
 src/jingo
 src/jingo-minify
 src/schematic
