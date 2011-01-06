@@ -1,6 +1,7 @@
 packages/Babel
 packages/Django
 packages/django-tagging
+packages/django-threadedcomments
 packages/feedparser
 packages/GitPython/lib
 packages/html5lib/src
