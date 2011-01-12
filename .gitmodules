@@ -31,3 +31,6 @@
 [submodule "src/django-recaptcha"]
 	path = src/django-recaptcha
 	url = git://github.com/mozilla/django-recaptcha.git
+[submodule "src/test-utils"]
+	path = src/test-utils
+	url = git://github.com/jbalogh/test-utils.git
