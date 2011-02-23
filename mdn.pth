@@ -23,6 +23,7 @@ src/django-nose
 src/django-recaptcha
 src/jingo
 src/jingo-minify
+src/python-magic
 src/schematic
 src/test-utils
 src/tower

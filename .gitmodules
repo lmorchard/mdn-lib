@@ -34,3 +34,6 @@
 [submodule "src/test-utils"]
 	path = src/test-utils
 	url = git://github.com/jbalogh/test-utils.git
+[submodule "src/python-magic"]
+	path = src/python-magic
+	url = https://github.com/ahupp/python-magic.git
